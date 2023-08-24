@@ -3,7 +3,7 @@
 <img align="centre" src="https://github.com/pathanadnan/Travel/assets/110882495/1aab629f-5d71-4a52-baa0-616781937f02" />
 
 
-  <h2 align="center">Tourly - Travel website</h2>
+  <h2 align="center">Travel - Travel website</h2>
 
   Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
